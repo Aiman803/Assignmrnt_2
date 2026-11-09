@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FirstFragment">
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@color/deepsea1"
+        android:gravity="center"
+        android:padding="10dp">
+
+
+    <!-- TODO: Update blank fragment layout -->
+    <Button
+        android:id="@+id/btnBrowser"
+        android:layout_width="250dp"
+        android:layout_height="60dp"
+        android:layout_margin="10dp"
+        android:backgroundTint="@color/deepsea2"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:text="Browser"/>
+
+    <Button
+        android:id="@+id/btnDialer"
+        android:layout_width="250dp"
+        android:layout_height="60dp"
+        android:layout_margin="10dp"
+        android:backgroundTint="@color/deepsea3"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:text="Dialer"/>
+
+        <Button
+            android:id="@+id/btnLocation"
+            android:layout_width="250dp"
+            android:layout_height="60dp"
+            android:layout_margin="10dp"
+            android:backgroundTint="@color/deepsea4"
+            android:textColor="@color/deepsea1"
+            android:text="Location"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btnNext"
+            android:layout_width="250dp"
+            android:layout_height="60dp"
+            android:layout_margin="10dp"
+            android:layout_marginTop="30dp"
+            android:backgroundTint="@color/deepsea2"
+            android:text="Next Fragment"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+
+</FrameLayout>
