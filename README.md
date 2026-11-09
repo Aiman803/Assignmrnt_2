@@ -12,4 +12,7 @@ Opening the browser and dialer
 
 It's been a great learning experience, and I'm looking forward to building more projects!
 
-"C:\Users\wizar\Videos\Screen Recordings\Screen Recording 2026-11-09 170632.mp4"
+Watch the screen recording of my Android application:
+
+[https://youtu.be/-dKpm0a5bKQ]
+
